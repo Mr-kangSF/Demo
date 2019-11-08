@@ -1,6 +1,6 @@
 package com.wankang.demo.controller;
 
-import java.util.stream.Stream;
+import com.wankang.demo.dto.Apple;
 
 /**
  * ${DESCRIPTION}
@@ -10,9 +10,15 @@ import java.util.stream.Stream;
  **/
 public class TestController {
     public static void main(String[] args) throws Exception{
-        Stream<String> stream= Stream.of("I", "love", "you", "too");
-        stream.sorted((str1, str2) -> str1.length()-str2.length())
-                .forEach(str -> System.out.println(str));
+//        Stream<String> stream= Stream.of("I", "love", "you", "too");
+//        stream.sorted((str1, str2) -> str1.length()-str2.length())
+//                .forEach(str -> System.out.println(str));
+
+        Apple apple = new Apple(1,"");
+        Apple b = apple.clone();
+        System.out.println(apple.equals(b));
+
+
 
     }
 

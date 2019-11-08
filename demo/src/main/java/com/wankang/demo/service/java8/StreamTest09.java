@@ -2,10 +2,7 @@ package com.wankang.demo.service.java8;
 
 import com.wankang.demo.dto.Dish;
 
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -23,7 +20,16 @@ public class StreamTest09 {
 //        test01();
 //        test02();
 //        test03();
-        test04();
+//        test04();
+//        new BigDecimal("999999999999999999999999999999999999.99");
+
+        List<String> list = new ArrayList<>();
+        if( list != null  && !list.isEmpty()) {
+            System.out.println("1");
+        } else {
+            System.out.println("2");
+        }
+
     }
 
     // 区分素食与荤食
