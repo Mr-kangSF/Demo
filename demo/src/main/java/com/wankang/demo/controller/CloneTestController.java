@@ -29,6 +29,7 @@ public class CloneTestController {
         car.setWeight(10000);
         person.setCar(car);
 
+
         // 开始克隆
         try {
             Person newPerson = person.deepClone();

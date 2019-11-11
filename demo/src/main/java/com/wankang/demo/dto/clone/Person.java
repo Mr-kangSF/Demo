@@ -12,26 +12,26 @@ import java.io.*;
  **/
 @Data
 public class Person implements Serializable {
-
     private Integer age;
-
     private String sex;
-
     private Car car;
+
+    public Person(){
+        try {
+            Thread.sleep(10);  //模拟创建对象很耗时
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
 
     public Person deepClone() throws IOException, ClassNotFoundException {
         //将对象写入流中
         ByteArrayOutputStream bao = new ByteArrayOutputStream();
-
         ObjectOutputStream oos = new ObjectOutputStream(bao);
-
         oos.writeObject(this);
-
         //将对象从流中取出
         ByteArrayInputStream bis = new ByteArrayInputStream(bao.toByteArray());
-
         ObjectInputStream ois = new ObjectInputStream(bis);
-
         return (Person) ois.readObject();
     }
 
