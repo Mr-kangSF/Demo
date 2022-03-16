@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T07:21:22.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lUVsg1BvYa3Ep0HEryso" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T07:32:07.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wipZbCMJJ61_P7TeIkE1" version="17.1.2" type="github">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1391,7 +1391,7 @@
             <mxRectangle width="210" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-5" value="部门角色管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="GJ38--U2hxSo7yMG93EX-2">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-5" value="部门管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="GJ38--U2hxSo7yMG93EX-2">
           <mxGeometry x="450" width="300" height="41" as="geometry">
             <mxRectangle width="300" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -1542,22 +1542,22 @@
           <mxGeometry x="350" y="3270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-39" value="根据部门编码获取部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3040" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3040" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-40" value="根据部门编码查询子部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3100" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-41" value="查询全部部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3160" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3160" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-42" value="根据时间段增量查询部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3220" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3220" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-43" value="根据部门列表查询部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3280" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3280" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-44" value="根据用户编码获取该用户能查看的部门信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="3350" width="90" height="40" as="geometry" />
+          <mxGeometry x="550" y="3350" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-45" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF4517;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GJ38--U2hxSo7yMG93EX-38" target="GJ38--U2hxSo7yMG93EX-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1629,7 +1629,7 @@
             <mxRectangle width="210" height="41" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-57" value="部门角色管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="GJ38--U2hxSo7yMG93EX-54">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-57" value="部门管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="GJ38--U2hxSo7yMG93EX-54">
           <mxGeometry x="450" width="300" height="41" as="geometry">
             <mxRectangle width="300" height="41" as="alternateBounds" />
           </mxGeometry>
@@ -1780,22 +1780,22 @@
           <mxGeometry x="360" y="3957" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-91" value="/inner/sysDept&lt;br&gt;/selectByDeptCode" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="3727" width="110" height="40" as="geometry" />
+          <mxGeometry x="560" y="3727" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-92" value="&lt;span&gt;/inner/sysDept&lt;br&gt;/&lt;/span&gt;getDeptInfoByCode&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="3787" width="110" height="40" as="geometry" />
+          <mxGeometry x="560" y="3787" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-93" value="/inner/sysDept&lt;br&gt;/getAllDeptInfo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="3847" width="110" height="40" as="geometry" />
+          <mxGeometry x="560" y="3847" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-94" value="&lt;span&gt;/inner/sysDept&lt;br&gt;/&lt;/span&gt;getNewDeptInfo&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="3907" width="110" height="40" as="geometry" />
+          <mxGeometry x="560" y="3907" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-95" value="&lt;span&gt;/inner/sysDept&lt;br&gt;/&lt;/span&gt;getDeptInfoByDeptCodeList&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="3967" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-96" value="&lt;span&gt;/inner/sysDept&lt;br&gt;/&lt;/span&gt;getDeptInfoByUserCode&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="4037" width="150" height="40" as="geometry" />
+          <mxGeometry x="560" y="4037" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-97" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF4517;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GJ38--U2hxSo7yMG93EX-90" target="GJ38--U2hxSo7yMG93EX-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
