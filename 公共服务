@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T09:29:35.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LwgBbf5-bENnrU0V0SDf" version="17.1.2" type="github">
-  <diagram id="moR7BfEI7cOgwqVWbXzE" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-03-16T10:03:37.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="VKreF6sxaqyUksD_izRG" version="17.1.2" type="github" pages="2">
+  <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -2361,6 +2361,14 @@
         <mxCell id="GJ38--U2hxSo7yMG93EX-220" value="角色管理-请求接口" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="78" y="4900" width="120" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3Bge1k9c3yNSBWRv1X8E" name="Page-2">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="YVutPhfRDLO4-Bz-Px1s-0" />
+        <mxCell id="YVutPhfRDLO4-Bz-Px1s-1" parent="YVutPhfRDLO4-Bz-Px1s-0" />
       </root>
     </mxGraphModel>
   </diagram>
