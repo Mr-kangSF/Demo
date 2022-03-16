@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T09:23:10.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="wjCU8hyVPfnnr9zJOloC" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T09:25:23.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fsJc1KwICzZm_MLZuq9q" version="17.1.2" type="github">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2328,19 +2328,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-210" value="批量删除功能角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-210" value="inner/sysFuncRoles&lt;br&gt;/deleteByRoleIds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="5020" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-211" value="新增功能角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-211" value="inner/sysFuncRoles&lt;br&gt;/add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="698" y="5080" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-212" value="更新功能角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-212" value="inner/sysFuncRoles&lt;br&gt;/update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="5140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-213" value="根据部门编码获取功能角色列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-213" value="inner/sysFuncRoles&lt;br&gt;/listAll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="698" y="5200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-214" value="&lt;span&gt;查询全部功能角色信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-214" value="inner/sysFuncRoles&lt;br&gt;/getAllFuncRoles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="698" y="5260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-215" value="/inner/sysMenu&lt;br&gt;/getUserMenuTree" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
