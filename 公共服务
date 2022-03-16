@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T09:25:23.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="fsJc1KwICzZm_MLZuq9q" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T09:29:35.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="LwgBbf5-bENnrU0V0SDf" version="17.1.2" type="github">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="Page-1">
     <mxGraphModel dx="1038" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2020,7 +2020,7 @@
         <mxCell id="GJ38--U2hxSo7yMG93EX-141" value="批量删除资源角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="4380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-142" value="给指定用户添加资源角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-142" value="新增资源角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="4440" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-143" value="更新用户资源角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2272,19 +2272,19 @@
         <mxCell id="GJ38--U2hxSo7yMG93EX-200" value="判断" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="363" y="5250" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-201" value="批量删除资源角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-201" value="inner/sysRoles&lt;br&gt;/deleteByRoleIds" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="5020" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-202" value="给指定用户添加资源角色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-202" value="inner/sysRoles&lt;br&gt;/add" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="5080" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-203" value="更新用户资源角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-203" value="inner/sysRoles&lt;br&gt;/update" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="5140" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-204" value="根据部门编码获取资源角色列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-204" value="inner/sysRoles&lt;br&gt;/listAll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="5200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GJ38--U2hxSo7yMG93EX-205" value="查询全部资源角色信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GJ38--U2hxSo7yMG93EX-205" value="inner/sysRoles&lt;br&gt;/getAllSysRoles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="563" y="5260" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GJ38--U2hxSo7yMG93EX-206" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FF4517;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GJ38--U2hxSo7yMG93EX-200" target="GJ38--U2hxSo7yMG93EX-202">
