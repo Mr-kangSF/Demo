@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-12-05T06:41:43.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="17.1.3" etag="0QgCV6raTnfWD3VU5f1u" type="github"><diagram id="MuGb--O49IoQ4uYa2c90">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-05T07:30:17.597Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_jBI3umFf_AVQLMZtCVK" version="17.1.3" type="github">
+  <diagram id="MuGb--O49IoQ4uYa2c90" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-1" value="昼伏夜出-查询人员档案流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DgyByDc1_wY8vd-kiIqh-2" target="DgyByDc1_wY8vd-kiIqh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-2" value="1.查询大数据中间表:&lt;br&gt;PERSON_APPEAR_NUM_HOUR_STAT,&lt;br&gt;将统计出昼伏夜出的人档按照天数从高到低排序" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="110" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DgyByDc1_wY8vd-kiIqh-3" target="DgyByDc1_wY8vd-kiIqh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-3" value="2.查询动态档案，补充档案信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-5" value="3.查询标签系统,补充人员标签信息" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-7" value="昼伏夜出-查询人员档案详情流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DgyByDc1_wY8vd-kiIqh-8" target="DgyByDc1_wY8vd-kiIqh-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-8" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1.查询大数据中间表:&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PERSON_APPEAR_NUM_HOUR_STAT,&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;将当前人档在所选区间内的所有昼伏夜出日期下的白天夜晚的轨迹统计次数返回&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="570" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-9" value="2.只查昼伏夜出的场景直接返回，正常出没的分析每一天的轨迹日夜出现次数再返回" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="720" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-11" value="昼伏夜出-分页查询人员档案轨迹列表流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="850" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DgyByDc1_wY8vd-kiIqh-12" value="查询人员轨迹表：HIVE_FACE_DETECT_RL,&lt;br&gt;区分轨迹日夜属性后返回" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="272.5" y="930" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
