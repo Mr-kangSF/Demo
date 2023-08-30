@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T09:20:58.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sXwU45Ir3fTnmpL4yzIY" version="21.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-30T06:36:10.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8fvZ_Ui_VrM_u_4p_wOi" version="21.6.8" type="github" pages="2">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
-    <mxGraphModel dx="1050" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2513,72 +2513,72 @@
         <mxCell id="rPMuBlrtyPym0x3VPcj--50" value="&lt;b&gt;表示ES或CH数据库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1090" y="5797.5" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-1" target="qQlwReUaT6up8xlmyZU3-2">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-1" target="qQlwReUaT6up8xlmyZU3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-6" value="&lt;b&gt;face_delete&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qQlwReUaT6up8xlmyZU3-3">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-6" value="&lt;b&gt;face_delete&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qQlwReUaT6up8xlmyZU3-3" vertex="1" connectable="0">
           <mxGeometry x="0.2837" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-1" target="qQlwReUaT6up8xlmyZU3-4">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-1" target="qQlwReUaT6up8xlmyZU3-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-7" value="&lt;b&gt;person_merge_delete&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qQlwReUaT6up8xlmyZU3-5">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-7" value="&lt;b&gt;person_merge_delete&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qQlwReUaT6up8xlmyZU3-5" vertex="1" connectable="0">
           <mxGeometry x="0.2762" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-1" value="&lt;b&gt;Q_DNVN_RESP_PERSON&lt;br&gt;_DELETE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-1" value="&lt;b&gt;Q_DNVN_RESP_PERSON&lt;br&gt;_DELETE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="399" y="6300" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-2" target="qQlwReUaT6up8xlmyZU3-12">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-2" target="qQlwReUaT6up8xlmyZU3-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-2" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;HIVE_FACE_DETECT_RL&lt;br&gt;_DELETE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-2" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;HIVE_FACE_DETECT_RL&lt;br&gt;_DELETE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="6450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-4" target="qQlwReUaT6up8xlmyZU3-14">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-4" target="qQlwReUaT6up8xlmyZU3-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-4" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;ARCHIVE_PERSON_MERGE&lt;br&gt;_DELETE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-4" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;ARCHIVE_PERSON_MERGE&lt;br&gt;_DELETE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="6450" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-8" value="" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-8" value="" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="6302.5" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-9" value="" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-9" value="" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="6267.5" width="80" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-10" value="&lt;b&gt;表示kafka队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-10" value="&lt;b&gt;表示kafka队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="6260" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-11" value="&lt;b&gt;表示ES或CH数据库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-11" value="&lt;b&gt;表示ES或CH数据库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="860" y="6295" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-12" value="大数据脚本处理，关联&lt;b&gt;HIVE_FACE_DETECT_RL&lt;/b&gt;轨迹表做物理删除。" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-12" value="大数据脚本处理，关联&lt;b&gt;HIVE_FACE_DETECT_RL&lt;/b&gt;轨迹表做物理删除。" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="6590" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-14" target="qQlwReUaT6up8xlmyZU3-16">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-14" target="qQlwReUaT6up8xlmyZU3-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-14" value="调用viid-archive-person-tool模块的&lt;br&gt;档案合并关系拆除数据处理接口，&lt;br&gt;拆除档案的合并关系" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-14" value="调用viid-archive-person-tool模块的&lt;br&gt;档案合并关系拆除数据处理接口，&lt;br&gt;拆除档案的合并关系" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="6590" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qQlwReUaT6up8xlmyZU3-16" target="qQlwReUaT6up8xlmyZU3-18">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="qQlwReUaT6up8xlmyZU3-16" target="qQlwReUaT6up8xlmyZU3-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-16" value="大数据根据&lt;br&gt;CH:ARCHIVE_PERSON_&lt;br&gt;MERGE_DELETE 表的数据物理删除对应的人档轨迹" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-16" value="大数据根据&lt;br&gt;CH:ARCHIVE_PERSON_&lt;br&gt;MERGE_DELETE 表的数据物理删除对应的人档轨迹" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="6775" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qQlwReUaT6up8xlmyZU3-18" value="对应算法厂商(eg:海康)重推建档流程和轨迹新增流程" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qQlwReUaT6up8xlmyZU3-18" value="对应算法厂商(eg:海康)重推建档流程和轨迹新增流程" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="580" y="6915" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3Bge1k9c3yNSBWRv1X8E" name="Page-2">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="3Bge1k9c3yNSBWRv1X8E" name="融合分析">
+    <mxGraphModel dx="1290" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-0" />
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-1" parent="YVutPhfRDLO4-Bz-Px1s-0" />
