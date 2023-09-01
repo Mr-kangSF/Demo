@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T10:05:11.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="w_RoylKIt9Y-FcUnVdu-" version="21.6.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T01:44:42.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-MLARqYhhq6McFSIkq6Z" version="21.7.0" type="github" pages="2">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
-    <mxGraphModel dx="1290" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2578,112 +2578,112 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Bge1k9c3yNSBWRv1X8E" name="融合分析">
-    <mxGraphModel dx="1782" dy="-5330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="-5279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-0" />
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-1" parent="YVutPhfRDLO4-Bz-Px1s-0" />
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-19">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="6430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-19" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-19" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6290" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-22" target="OCFCsGj_m7j3Q9drf8ih-25">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-22" target="OCFCsGj_m7j3Q9drf8ih-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-22" value="海康发送拆档消息，校验通过后，直接落库" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-22" value="海康发送拆档消息，校验通过后，直接落库" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6390" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-23" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2bbb0f74859e45247b9e8534294972cc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;以A1-&amp;gt;A -&amp;gt; D，B-&amp;gt;D, C-&amp;gt;D为&lt;/p&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;例，现在要拆A-&amp;gt;D的合并关系&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
-          <mxGeometry x="-50" y="6560" width="240" height="70" as="geometry" />
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-23" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2bbb0f74859e45247b9e8534294972cc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;以A1-&amp;gt;A -&amp;gt; D，B-&amp;gt;D, C-&amp;gt;D为&lt;/p&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;例，现在要拆A-&amp;gt;D的合并关系&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontColor=#ffffff;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
+          <mxGeometry x="-60" y="6290" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-25" target="OCFCsGj_m7j3Q9drf8ih-27">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-25" target="OCFCsGj_m7j3Q9drf8ih-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-25" value="手动调用接口清洗档案拆分数据" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-25" value="手动调用接口清洗档案拆分数据" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6500" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-27" target="OCFCsGj_m7j3Q9drf8ih-29">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-27" target="OCFCsGj_m7j3Q9drf8ih-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-27" value="1.先打平档案A的MERGE_ID_LIST（被合并档案），并把A的状态改为有效，TARGET_PERSON_ID置空；&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;d75c62705e3230ad4b08dc1dea4bdb49&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt 3pt 16.8pt; font-family: 等线; font-size: 12pt; line-height: 20.8px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-27" value="1.先打平档案A的MERGE_ID_LIST（被合并档案），并把A的状态改为有效，TARGET_PERSON_ID置空；&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;d75c62705e3230ad4b08dc1dea4bdb49&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt 3pt 16.8pt; font-family: 等线; font-size: 12pt; line-height: 20.8px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6610" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-29" target="OCFCsGj_m7j3Q9drf8ih-31">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-29" target="OCFCsGj_m7j3Q9drf8ih-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-29" value="2.将D档案中的MERGE_ID_LIST去除A,A1的person_id&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;e926729a4d91d8785d6021ffa69269ca&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-29" value="2.将D档案中的MERGE_ID_LIST去除A,A1的person_id&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;e926729a4d91d8785d6021ffa69269ca&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6710" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-31" target="OCFCsGj_m7j3Q9drf8ih-33">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-31" target="OCFCsGj_m7j3Q9drf8ih-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-31" value="3.删除A,D以及A1,B,C的全部轨迹&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;8335e9e9423b3099ccd1d1359a746fdc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-31" value="3.删除A,D以及A1,B,C的全部轨迹&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;8335e9e9423b3099ccd1d1359a746fdc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6820" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-33">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="7080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-33" value="最后海康重推A（包括A1）,D(包括B,C)的全部轨迹" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-33" value="最后海康重推A（包括A1）,D(包括B,C)的全部轨迹" style="whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="6940" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-37" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7050" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-39">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="7320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-39" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-39" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7180" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-41" target="OCFCsGj_m7j3Q9drf8ih-44">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-41" target="OCFCsGj_m7j3Q9drf8ih-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-41" value="海康发送拆档消息，校验通过后，直接落库" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-41" value="海康发送拆档消息，校验通过后，直接落库" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7280" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-42" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2bbb0f74859e45247b9e8534294972cc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot; data-hash=&quot;ab8e22aa2f31486cc6a0ec9e4d1f2b8f&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;以A1-&amp;gt;A-&amp;gt;B-&amp;gt;C-&amp;gt;D为例，&lt;/p&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;现在要拆A-&amp;gt;D的合并关系&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-42" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2bbb0f74859e45247b9e8534294972cc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot; data-hash=&quot;ab8e22aa2f31486cc6a0ec9e4d1f2b8f&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;以A1-&amp;gt;A-&amp;gt;B-&amp;gt;C-&amp;gt;D为例，&lt;/p&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;现在要拆A-&amp;gt;D的合并关系&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="-30" y="7590" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-44" target="OCFCsGj_m7j3Q9drf8ih-46">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-44" target="OCFCsGj_m7j3Q9drf8ih-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-44" value="手动调用接口清洗档案拆分数据" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-44" value="手动调用接口清洗档案拆分数据" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7390" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-46" target="OCFCsGj_m7j3Q9drf8ih-48">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-46" target="OCFCsGj_m7j3Q9drf8ih-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-46" value="1.先打平档案A的MERGE_ID_LIST（被合并档案），并把A的状态改为有效，TARGET_PERSON_ID置空；&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;d75c62705e3230ad4b08dc1dea4bdb49&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt 3pt 16.8pt; font-family: 等线; font-size: 12pt; line-height: 20.8px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-46" value="1.先打平档案A的MERGE_ID_LIST（被合并档案），并把A的状态改为有效，TARGET_PERSON_ID置空；&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;d75c62705e3230ad4b08dc1dea4bdb49&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt 3pt 16.8pt; font-family: 等线; font-size: 12pt; line-height: 20.8px; text-indent: -16.8pt;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7500" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-48" target="OCFCsGj_m7j3Q9drf8ih-50">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-48" target="OCFCsGj_m7j3Q9drf8ih-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-48" value="2.将B,C,D档案中的MERGE_ID_LIST去除A,A1的person_id&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;e926729a4d91d8785d6021ffa69269ca&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-48" value="2.将B,C,D档案中的MERGE_ID_LIST去除A,A1的person_id&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;e926729a4d91d8785d6021ffa69269ca&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7600" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-50" target="OCFCsGj_m7j3Q9drf8ih-52">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-50" target="OCFCsGj_m7j3Q9drf8ih-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-50" value="3.删除A,D以及A1,B,C的全部轨迹&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;8335e9e9423b3099ccd1d1359a746fdc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-50" value="3.删除A,D以及A1,B,C的全部轨迹&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;8335e9e9423b3099ccd1d1359a746fdc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7710" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-52">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-52" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="7970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-52" value="最后海康重推A（包括A1）,D(包括B,C)的全部轨迹" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-52" value="最后海康重推A（包括A1）,D(包括B,C)的全部轨迹" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7820" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OCFCsGj_m7j3Q9drf8ih-53" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+        <mxCell id="OCFCsGj_m7j3Q9drf8ih-53" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
           <mxGeometry x="310" y="7920" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
