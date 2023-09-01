@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T01:44:42.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="-MLARqYhhq6McFSIkq6Z" version="21.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-01T01:44:57.186Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="nH0X7dqlicE1BUhccobu" version="21.7.0" type="github" pages="2">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
     <mxGraphModel dx="1050" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2649,7 +2649,7 @@
           <mxGeometry x="310" y="7280" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OCFCsGj_m7j3Q9drf8ih-42" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot; data-hash=&quot;2bbb0f74859e45247b9e8534294972cc&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot; data-hash=&quot;ab8e22aa2f31486cc6a0ec9e4d1f2b8f&quot; data-version=&quot;3.0.0&quot;&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;div class=&quot;document&quot;&gt;&lt;div class=&quot;section&quot;&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;以A1-&amp;gt;A-&amp;gt;B-&amp;gt;C-&amp;gt;D为例，&lt;/p&gt;&lt;p style=&quot;margin: 3pt 0pt; font-family: 等线; font-size: 12pt; line-height: 20.8px;&quot; class=&quot;paragraph text-align-type-left&quot;&gt;现在要拆A-&amp;gt;D的合并关系&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" parent="YVutPhfRDLO4-Bz-Px1s-1" vertex="1">
-          <mxGeometry x="-30" y="7590" width="220" height="70" as="geometry" />
+          <mxGeometry x="-30" y="7180" width="220" height="70" as="geometry" />
         </mxCell>
         <mxCell id="OCFCsGj_m7j3Q9drf8ih-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="YVutPhfRDLO4-Bz-Px1s-1" source="OCFCsGj_m7j3Q9drf8ih-44" target="OCFCsGj_m7j3Q9drf8ih-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
