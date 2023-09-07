@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T02:07:08.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="W0KJLBiKh7I_wIWG7idD" version="21.7.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-07T03:55:18.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="y4mOOh95DDHn-Yuwx4bp" version="21.7.2" type="github" pages="2">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
-    <mxGraphModel dx="1050" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2569,10 +2569,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qQlwReUaT6up8xlmyZU3-16" value="大数据根据&lt;br&gt;CH:ARCHIVE_PERSON_&lt;br&gt;MERGE_DELETE 表的数据物理删除被合并档案的轨迹" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="6775" width="200" height="60" as="geometry" />
+          <mxGeometry x="580" y="6740" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qQlwReUaT6up8xlmyZU3-18" value="对应算法厂商(eg:海康)重推被合并档案的建档流程和轨迹新增流程" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="580" y="6915" width="200" height="60" as="geometry" />
+          <mxGeometry x="580" y="6850" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
