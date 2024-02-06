@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T02:40:13.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Grw9rwlo2pdKWsERyksW" version="21.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-06T06:48:08.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="NivNX59VZAmyucOjjMpe" version="21.8.2" type="github" pages="2">
   <diagram id="moR7BfEI7cOgwqVWbXzE" name="公共服务">
-    <mxGraphModel dx="1500" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2146" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2604,7 +2604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3Bge1k9c3yNSBWRv1X8E" name="融合分析">
-    <mxGraphModel dx="2594" dy="-3981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2329" dy="-4085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-0" />
         <mxCell id="YVutPhfRDLO4-Bz-Px1s-1" parent="YVutPhfRDLO4-Bz-Px1s-0" />
@@ -2971,6 +2971,61 @@
         </mxCell>
         <mxCell id="HXoAH-yQIlloJPnBWakc-36" value="&lt;b&gt;表示ES或CH数据库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
           <mxGeometry x="1090" y="5797.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="WRVGbrSkR63sNx4MSNAF-6" target="WRVGbrSkR63sNx4MSNAF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-2" value="&lt;b&gt;face_delete&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WRVGbrSkR63sNx4MSNAF-1">
+          <mxGeometry x="0.2837" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-3" value="&lt;b&gt;落库轨迹删除表(状态为&lt;font color=&quot;#ff0a3b&quot;&gt;4:删除&lt;/font&gt;或&lt;font color=&quot;#ff1726&quot;&gt;99:档案不存在&lt;/font&gt;)&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WRVGbrSkR63sNx4MSNAF-1">
+          <mxGeometry x="0.6843" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-6" value="&lt;b&gt;Q_DNVN_RESP_PERSON&lt;br&gt;_DELETE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="139" y="8430" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-7" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;HIVE_FACE_DETECT_RL&lt;br&gt;_DELETE&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="120" y="8640" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-11" value="" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="520" y="8432.5" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-12" value="" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=0;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="520" y="8397.5" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-13" value="&lt;b&gt;表示kafka队列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="600" y="8390" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-14" value="&lt;b&gt;表示ES或CH数据库&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="600" y="8425" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" target="WRVGbrSkR63sNx4MSNAF-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="8550" as="sourcePoint" />
+            <mxPoint x="320" y="8770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="8550" />
+              <mxPoint x="360" y="8800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-18" value="&lt;b&gt;同步落库轨迹表(状态为&lt;font color=&quot;#ff0a3b&quot;&gt;4:删除)&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WRVGbrSkR63sNx4MSNAF-17">
+          <mxGeometry x="0.424" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YVutPhfRDLO4-Bz-Px1s-1" source="WRVGbrSkR63sNx4MSNAF-20" target="WRVGbrSkR63sNx4MSNAF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-20" value="&lt;b&gt;CH:&lt;/b&gt;&lt;br&gt;&lt;b&gt;HIVE_FACE_DETECT_RL&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;rounded=0;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="120" y="8770" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WRVGbrSkR63sNx4MSNAF-21" value="手动在终端执行以下语句进行分区合并操作:&lt;br&gt;optimize&amp;nbsp;table&amp;nbsp;&lt;br&gt;HIVE_FACE_DETECT_RL_LOCAL&amp;nbsp;&lt;br&gt;on&amp;nbsp;cluster&amp;nbsp;cluster_01&amp;nbsp;&lt;br&gt;partition&amp;nbsp;‘20230901’&amp;nbsp;FINAL;&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="YVutPhfRDLO4-Bz-Px1s-1">
+          <mxGeometry x="100" y="8880" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
